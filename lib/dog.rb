@@ -9,5 +9,5 @@ class Dog
   end
   
     def bark
-    @dog_can_bark
+      puts "Woof!"
 end
